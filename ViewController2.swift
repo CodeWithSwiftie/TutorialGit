@@ -4,6 +4,7 @@ class ViewController2: UIViewController {
     // Тут позже будет реализация
     // Первая реализация
     func viewDidLoad() {
-        // Реализация
+        super.viewDidLoad()
+        // Нормальная реализация
     }
 }
