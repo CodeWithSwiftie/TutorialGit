@@ -7,4 +7,8 @@ class ViewController2: UIViewController {
         super.viewDidLoad()
         // Нормальная реализация
     }
+
+    viewWillAppear() {
+        super.viewWillAppear()
+    }
 }
