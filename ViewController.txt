@@ -1,3 +1,6 @@
 class ViewController: UIViewController {
-    
+    viewDidLoad() {
+        super.viewDidLoad()
+        // Настройка View Controller
+    }
 }
