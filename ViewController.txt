@@ -1,3 +1,6 @@
 class ViewController: UIViewController {
-    
+    viewDidLoad() {
+        super.viewDidLoad()
+        // Совершеннно новая реализация из прошлого! И будет слита с новой веткой!ы
+    }
 }
