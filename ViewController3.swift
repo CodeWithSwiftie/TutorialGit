@@ -3,4 +3,8 @@ class ViewController3; UIViewController {
         super.viewDidLoad()
         // Все порешал!
     }
+
+    func viewWillApper() {
+        // Все сделано!
+    }
 }
