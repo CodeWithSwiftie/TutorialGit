@@ -1,6 +1,6 @@
 class ViewController: UIViewController {
     viewDidLoad() {
         super.viewDidLoad()
-        // Переделал реализацию View Controller
+        // Совершеннно новая реализация из прошлого! И будет слита с новой веткой!ы
     }
 }
