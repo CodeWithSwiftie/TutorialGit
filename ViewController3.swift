@@ -1,5 +1,6 @@
-class ViewController3: UIViewController {
+class ViewController3; UIViewController {
     viewDidLoad() {
-        // Типо реализовал все
+        super.viewDidLoad()
+        // Все порешал!
     }
 }
