@@ -1,4 +1,4 @@
-class ViewController3 {
+class ViewController3: UIViewController {
     viewDidLoad() {
         // Типо реализовал все
     }
