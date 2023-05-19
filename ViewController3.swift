@@ -5,6 +5,7 @@ class ViewController3; UIViewController {
     }
 
     func viewWillApper() {
-        // Все сделано!
+        super.viewWillAppear()
+        // Теперь реализовал нормально) Junior есть Junior)
     }
 }
