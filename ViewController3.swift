@@ -1,15 +1,18 @@
 class ViewController3; UIViewController {
     viewDidLoad() {
         super.viewDidLoad()
-        // Все порешал!
-
-        // Добавил Label
-        let label = UILabel()
-        view.addSubview(label)
+        addLabel()
     }
 
     func viewWillApper() {
         super.viewWillAppear()
         // Теперь реализовал нормально) Junior есть Junior)
+    }
+
+    func addLabel() {
+        // Добавил Label
+        let label = UILabel()
+        label.text = "Welcome"
+        view.addSubview(label)
     }
 }
