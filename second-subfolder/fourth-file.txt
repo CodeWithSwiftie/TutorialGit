@@ -1,1 +1,3 @@
 Fourth file text
+
+This file was modifier in the feature branch.
