@@ -8,7 +8,8 @@ class ViewController2: UIViewController {
         // Нормальная реализация
     }
 
-    viewWillAppear() {
+    func viewWillAppear() {
         super.viewWillAppear()
+        // Нормально уже сделано!
     }
 }
